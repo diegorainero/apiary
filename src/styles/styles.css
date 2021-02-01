@@ -1,5 +1,9 @@
 /* app/src/styles/styles.css */
 
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 /* General styles */
 html,
 *,
